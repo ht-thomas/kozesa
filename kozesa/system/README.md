@@ -1,0 +1,1 @@
+This folder contains the system files used by kozesa such as permissions.
